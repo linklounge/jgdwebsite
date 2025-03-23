@@ -7,7 +7,7 @@ const PortfolioFilterOne = dynamic(() => import('@/components/portfolio/Portfoli
 export default function PorfolioModernMetro() {
     return (
         <>
-            <Layout pageTitle="Modern Metro" pageTitleDesc="Take a look at our recent projects">
+            <Layout pageTitle="Our Products" pageTitleDesc="Take a look at our recent projects">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">

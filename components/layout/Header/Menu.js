@@ -134,7 +134,7 @@ export default function Menu() {
                         </ul>
                     </li> */}
                     <li className="is-mega-menu">
-                        <Link href="/">{translations.t('header.portfolio')} <span className="sub-menu"></span></Link>
+                        <Link href="/portfolio/">{translations.t('header.portfolio')} <span className="sub-menu"></span></Link>
                         {/* <ul className="sub-menu">
                             <li>
                                 <div className="mega-menu flex-content-c flex">

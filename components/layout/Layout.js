@@ -45,8 +45,8 @@ export default function Layout({ headerLayout, footerLayout, children, siteConte
                 </main>
 
 
-                {!footerLayout && < Footer1 />}
-                {footerLayout == 1 ? < Footer1 /> : null}
+                {/* {!footerLayout && < Footer1 />}
+                {footerLayout == 1 ? < Footer1 /> : null} */}
 
                 <BackToTop />
                 <SwitchDarkLight />
